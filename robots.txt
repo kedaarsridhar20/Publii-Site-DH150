@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://kedaarsridhar20.github.io/Publii-Site-DH150/sitemap.xml
